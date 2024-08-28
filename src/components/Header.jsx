@@ -10,10 +10,6 @@ export default function Header() {
         color:'red',
         textAlign:'left'
       }}>A community of artists and art-lovers.</p>
-      <p style={{
-        color:'red',
-        textAlign:'left'
-      }}>A community of artists and art-lovers.</p>
     </header>
   );
 }
