@@ -8,5 +8,6 @@ export default function Header() {
       <h1>ReactArt</h1>
       <p className={classes.paragraph}>A community of artists and art-lovers.</p>
     </header>
+    // ANother comment
   );
 }
