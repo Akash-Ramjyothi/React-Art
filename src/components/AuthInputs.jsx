@@ -10,7 +10,7 @@ const ControlContainer = styled.div`
 `
 
 export default function AuthInputs() {
-  const [enteredEmail, setEnteredEmail] = useState('');
+  const [enteredEmail, setEnteredEmail] = useState(''); // Email validation state
   const [enteredPassword, setEnteredPassword] = useState('');
   const [submitted, setSubmitted] = useState(false);
 
