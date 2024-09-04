@@ -48,7 +48,7 @@ export default function AuthInputs() {
 
   const emailNotValid = submitted && !enteredEmail.includes('@');
   const passwordNotValid = submitted && enteredPassword.trim().length < 6;
-
+// Linre
   return (
     <div id="auth-inputs">
       <ControlContainer>
