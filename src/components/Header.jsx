@@ -41,7 +41,7 @@ const StyledHeader = styled.header`
   }
 }
 `
-
+// Another comment
 export default function Header() {
   return (
     <StyledHeader>
