@@ -1,6 +1,6 @@
 import logo from '../assets/logo.png';
 
-
+// Header function
 export default function Header() {
   return (
     <header className='flex flex-col items-center mt-8 mb-16'>
