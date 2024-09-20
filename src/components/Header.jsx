@@ -11,6 +11,7 @@ export default function Header() {
       <h1 className='text-4xl font-semibold tracking-widest text-center uppercase text-amber-800 font-title'>
         ReactArt
       </h1>
+      {/* p tag */}
       <p className='text-stone-500'>A community of artists and art-lovers.</p>
     </header>
   );
