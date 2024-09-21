@@ -27,6 +27,7 @@ export default function AuthInputs() {
     setSubmitted(true);
   }
 
+  // Email validation
   const emailNotValid = submitted && !enteredEmail.includes('@');
   const passwordNotValid = submitted && enteredPassword.trim().length < 6;
   return (
