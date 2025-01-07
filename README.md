@@ -3,3 +3,4 @@ Making components re-usable.
 Limiting prop-drilling.
 Installed redux.
 Implementing RTK queries.
+Calling dispatch functions.
