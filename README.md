@@ -4,3 +4,4 @@ Limiting prop-drilling.
 Installed redux.
 Implementing RTK queries.
 Calling dispatch functions.
+Fixing component hierarchy.
