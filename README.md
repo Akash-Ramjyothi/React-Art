@@ -6,3 +6,4 @@ Implementing RTK queries.
 Calling dispatch functions.
 Fixing component hierarchy.
 Modularizing utility function.
+Fixing canvas functionality.
