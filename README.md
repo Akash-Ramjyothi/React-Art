@@ -7,3 +7,4 @@ Calling dispatch functions.
 Fixing component hierarchy.
 Modularizing utility function.
 Fixing canvas functionality.
+Fixing bugs.
