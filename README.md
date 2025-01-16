@@ -12,3 +12,4 @@ Changing canvas version.
 [Test_file_2.pdf](https://github.com/user-attachments/files/18394655/Test_file_2.pdf)
 Testing on prod.
 Fixing hierarchial issues.
+Creating multiple components.
