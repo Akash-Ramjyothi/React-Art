@@ -13,3 +13,4 @@ Changing canvas version.
 Testing on prod.
 Fixing hierarchial issues.
 Creating multiple components.
+Installing Jest for utility functions.
