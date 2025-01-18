@@ -14,3 +14,4 @@ Testing on prod.
 Fixing hierarchial issues.
 Creating multiple components.
 Installing Jest for utility functions.
+Adding primary unit tests.
