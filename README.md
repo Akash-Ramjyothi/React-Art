@@ -16,3 +16,4 @@ Creating multiple components.
 Installing Jest for utility functions.
 Adding primary unit tests.
 Creating async unit tests.
+Fixing merge conflicts.
