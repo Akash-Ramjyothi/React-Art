@@ -20,3 +20,4 @@ Fixing merge conflicts.
 Testing color changed pattern.
 Minor shift in flow.
 Structuring generic output.
+Creating canvas dynamic list.
