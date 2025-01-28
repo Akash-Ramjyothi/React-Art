@@ -24,3 +24,4 @@ Creating canvas dynamic list.
 Fixing merge conflicts in sibling branch.
 Tabular canvas logs with date.
 Changing JSON structure and higher order functions.
+Major bug fixing.
