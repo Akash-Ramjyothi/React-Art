@@ -27,3 +27,4 @@ Changing JSON structure and higher order functions.
 Major bug fixing.
 Collaborative entitelement fix.
 Fixing output structure.
+Testing canvas v2.
