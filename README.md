@@ -28,3 +28,4 @@ Major bug fixing.
 Collaborative entitelement fix.
 Fixing output structure.
 Testing canvas v2.
+Updating NPN packages.
