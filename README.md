@@ -1,32 +1,17 @@
-Created README.md for logs of changes.
-Making components re-usable.
-Limiting prop-drilling.
-Installed redux.
-Implementing RTK queries.
-Calling dispatch functions.
-Fixing component hierarchy.
-Modularizing utility function.
-Fixing canvas functionality.
-Fixing bugs.
-Changing canvas version.
-[Test_file_2.pdf](https://github.com/user-attachments/files/18394655/Test_file_2.pdf)
-Testing on prod.
-Fixing hierarchial issues.
-Creating multiple components.
-Installing Jest for utility functions.
-Adding primary unit tests.
-Creating async unit tests.
-Fixing merge conflicts.
-Testing color changed pattern.
-Minor shift in flow.
-Structuring generic output.
-Creating canvas dynamic list.
-Fixing merge conflicts in sibling branch.
-Tabular canvas logs with date.
-Changing JSON structure and higher order functions.
-Major bug fixing.
-Collaborative entitelement fix.
-Fixing output structure.
-Testing canvas v2.
-Updating NPN packages.
-Testing different colour of drawings.
+# llm-extractions repository
+### Pre-requisites:
+- node version: 20.18.1
+- yarn version: 1.22.22
+- nvm version: 1.1.12
+
+### Steps to install required packages (Windows OS):
+- Install nvm (node version manager) with https://github.com/coreybutler/nvm-windows/releases/download/1.1.12/nvm-setup.exe
+- After completing installation, install node with ```nvm install 20.18.1```
+- Set it as the active version with ```nvm use 20.18.1```
+- Install yarn using npm with command ```npm install -g yarn@1.22.22```
+
+### Steps to run llm-extractions repository locally:
+- Clone the project.
+- Checkout branch ```main``` or ```staging```.
+- Run ```yarn install``` to install the required dependencies.
+- Run ```yarn dev``` to run the project locally and test the API endpoints with Postman.
