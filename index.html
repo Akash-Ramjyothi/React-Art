@@ -1,19 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Basic Meta -->
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/logo.png" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ReactArt</title>
+
+    <!-- Primary SEO -->
+    <title>ReactArt | Creative React UI Playground</title>
+    <meta
+      name="description"
+      content="ReactArt is a creative React + Vite playground showcasing TailwindCSS and Styled Components for modern UI design."
+    />
+    <meta name="keywords" content="React, Vite, TailwindCSS, Styled Components, UI Design, Frontend" />
+    <meta name="author" content="Akash Ramjyothi" />
+
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:title" content="ReactArt | Creative React UI Playground" />
+    <meta
+      property="og:description"
+      content="Explore creative UI development using React, Vite, TailwindCSS and Styled Components."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/logo.png" />
+    <meta property="og:url" content="https://yourdomain.com" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <link rel="apple-touch-icon" href="/logo.png" />
+
+    <!-- Performance: Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
       rel="stylesheet"
     />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#111827" />
+
+    <!-- Security Enhancements -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self';" />
   </head>
-  <body class="p-8">
+
+  <body class="min-h-screen bg-gray-50 p-8 antialiased">
+    <noscript>
+      <strong>
+        We're sorry but ReactArt doesn't work properly without JavaScript enabled.
+      </strong>
+    </noscript>
+
     <div id="root"></div>
+
+    <!-- Main Entry -->
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
